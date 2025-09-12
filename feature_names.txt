@@ -1,0 +1,42 @@
+title_length
+days_since_posted
+is_senior
+is_fullstack
+is_frontend
+is_backend
+is_react
+is_node
+salary_range
+is_london
+is_remote
+company_name_length
+location.display_name_Brighton, East Sussex
+location.display_name_Cambridge, Cambridgeshire
+location.display_name_Central London, London
+location.display_name_Finsbury, Central London
+location.display_name_Fleet Street, Central London
+location.display_name_London, UK
+location.display_name_Lower Holloway, North London
+location.display_name_Manchester, Greater Manchester
+location.display_name_Newcastle Upon Tyne, Tyne & Wear
+location.display_name_Oxford, Oxfordshire
+location.display_name_The City, Central London
+location.display_name_UK
+company.display_name_83zero
+company.display_name_83zero Limited
+company.display_name_83zero Ltd
+company.display_name_Cambridge Intelligence
+company.display_name_Circle Group
+company.display_name_Infosys
+company.display_name_Lloyds Bank
+company.display_name_Monterosa
+company.display_name_Nexus Jobs Limited
+company.display_name_Rebellion
+company.display_name_Sellick Partnership
+company.display_name_Track24
+company.display_name_Vertech Group  Ltd
+category.label_IT Jobs
+salary_category_Entry
+salary_category_Lead
+salary_category_Mid
+salary_category_Senior
