@@ -1,0 +1,9 @@
+{
+  "best_model": "Linear Regression",
+  "r2_score": 1.0,
+  "mae": 6.680983822655718e-11,
+  "rmse": 9.54464801212308e-11,
+  "training_samples": 4784,
+  "test_samples": 1196,
+  "features_used": 42
+}
